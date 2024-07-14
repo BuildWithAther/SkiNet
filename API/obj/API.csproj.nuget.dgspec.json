@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\SkiNet\\skinet\\API\\API.csproj": {}
+    "D:\\Projects\\BuildWithAther\\SkiNet\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\SkiNet\\skinet\\API\\API.csproj": {
+    "D:\\Projects\\BuildWithAther\\SkiNet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\SkiNet\\skinet\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projects\\SkiNet\\skinet\\API\\API.csproj",
+        "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ABDULLAH\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\SkiNet\\skinet\\API\\obj\\",
+        "outputPath": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj": {
+    "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj",
+        "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ABDULLAH\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\SkiNet\\skinet\\Core\\obj\\",
+        "outputPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -181,14 +181,14 @@
         }
       }
     },
-    "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ABDULLAH\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -206,8 +206,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj": {
-                "projectPath": "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj"
+              "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj": {
+                "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj"
               }
             }
           }

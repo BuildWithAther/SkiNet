@@ -4588,11 +4588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SkiNet\\skinet\\API\\API.csproj",
+      "projectUniqueName": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Projects\\SkiNet\\skinet\\API\\API.csproj",
+      "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ABDULLAH\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SkiNet\\skinet\\API\\obj\\",
+      "outputPath": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4610,8 +4610,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

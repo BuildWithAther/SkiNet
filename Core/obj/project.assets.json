@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj",
+      "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\ABDULLAH\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SkiNet\\skinet\\Core\\obj\\",
+      "outputPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",

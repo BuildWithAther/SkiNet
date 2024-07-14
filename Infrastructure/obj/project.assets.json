@@ -4132,11 +4132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ABDULLAH\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SkiNet\\skinet\\Infrastructure\\obj\\",
+      "outputPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4154,8 +4154,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj": {
-              "projectPath": "D:\\Projects\\SkiNet\\skinet\\Core\\Core.csproj"
+            "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj": {
+              "projectPath": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Core.csproj"
             }
           }
         }
