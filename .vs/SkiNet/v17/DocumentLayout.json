@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\BuildWithAther\\SkiNet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A72B06-E9E4-41DD-8C41-25455E442FF9}|Infrastructure\\Infrastructure.csproj|d:\\projects\\buildwithather\\skinet\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A72B06-E9E4-41DD-8C41-25455E442FF9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61078D39-99C1-45BD-A343-3B2CFF693608}|Core\\Core.csproj|d:\\projects\\buildwithather\\skinet\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61078D39-99C1-45BD-A343-3B2CFF693608}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C36985-44ED-45F6-BD91-B7B1B1CFD7FD}|API\\API.csproj|d:\\projects\\buildwithather\\skinet\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C36985-44ED-45F6-BD91-B7B1B1CFD7FD}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projects\\BuildWithAther\\SkiNet\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA/wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:17:19.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
+              "ToolTip": "D:\\Projects\\BuildWithAther\\SkiNet\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:13:06.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Projects\\BuildWithAther\\SkiNet\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:12:06.738Z",
+              "EditorCaption": ""
             }
           ]
         }
